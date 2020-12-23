@@ -1,0 +1,309 @@
+@media only screen and (max-width: 420px) {
+
+body{
+    margin: 0;
+   /*
+    background-image: url(../img/Logo.png);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background: #F6F6F6;*/
+
+    
+}
+.principal{
+    width: 768px;
+    height: 2105px;
+    background-color:#ffff;
+    margin: 0 auto;
+}
+/* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+
+
+  .row-1 {width: 100%; display: flex;flex-direction: row;}
+
+#logo{
+    width: 60%;
+    display: block;
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 1000px;
+    
+}
+#nomes{
+    font-family: 'open_sansregular';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 77px;
+    text-align: center;
+    margin-top: 40px;
+    display: block;
+    margin-left: 260px;
+    width: 588px;
+}
+#imagemNomes{
+    margin-top: 30px;
+    margin-left: 40px;
+    height: 550px;
+
+}
+#subTitulo {
+    font-family: 'open_sansregular';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 50px;
+    text-align: 51px;
+    display: block;
+    margin-left: 160px;
+    width: 783px;
+
+}
+#sub{
+    font-weight: 600;
+    font-size: 38px;
+    margin-left: 300px;
+    font-family: 'open_sansregular';
+    line-height: 100px;
+}
+.valor{
+    color: #C0392B;
+    text-align: center;
+    line-height: 12px;
+    margin-top: 25px;
+    font-size: 66px;
+    margin-left: 83px;
+    margin-top: 115px;
+    font-family: 'open_sansregular';
+  
+}
+.valor2{
+    color: #9B59B6;
+    font-size: 97px;
+    font-family: 'open_sansregular';
+}
+.valor3{
+    color: #9B59B6;
+    font-size: 90px;
+    margin-left: 350px;
+    text-align: center;
+    font-family: 'open_sansregular';
+
+}
+
+
+#more{
+    background: #3498DB;
+    border-width: 5px;
+    border-style: solid;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'open_sansregular';
+    border-color: #3498DB;
+    border-radius: 15px 15px;
+    /* padding-left: 242px; */
+    /* padding-right: 233px; */
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 42px;
+    margin-left: -43px;
+    margin-top: 50px;
+    width: 975px;
+}
+.buy{
+    background: #3498DB;
+    border-width: 5px;
+    border-style: solid;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'open_sansregular';
+    border-color: #3498DB;
+    border-radius: 15px 15px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 970px;
+    font-size: 45px;
+}
+
+#segundoTitulo{
+    font-family: 'open_sansregular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 25px;
+    text-align: center;
+    display: block;
+    margin-top: 105px;
+    margin-left: 215px;
+}
+.tresImagens {
+    font-family: 'open_sansregular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    margin-left: 45px;
+    margin-top: 45px;
+    display: block;
+}
+#imagemDaImagem{
+    width: 970px;
+    margin-top: 50px;
+}
+.cima{
+    font-size: 42px;
+    width: 857px;
+    margin-left: 43px;
+    font-family: 'open_sansregular';
+}
+.cima2{
+    font-size: 42px;
+    width: 857px;
+    margin-left: 115px;
+    font-family: 'open_sansregular';
+}
+.cima3{
+    font-size: 42px;
+    width: 857px;
+    margin-left: 115px;
+    font-family: 'open_sansregular';
+}
+#primeiro{
+    font-weight: 600;
+    font-family: 'open_sansregular';
+    font-size: 50px;
+    margin-left: 350px;
+    display: block;
+    width: 679px;
+    margin-top: 50px;
+
+}
+#terceiro{
+    font-family: 'open_sansregular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 25px;
+    text-align: center;
+    display: block;
+    margin-top: 55px;
+    margin-left: 275px;
+}
+#vermelho{
+    color: #C0392B;
+    text-align: center;
+    line-height: 12px;
+    margin-top: 25px;
+    font-size: 66px;
+    margin-left: 83px;
+    margin-top: 115px;
+    font-family: 'open_sansregular';
+}
+.botao{
+    background: #ffffff;
+    border-width: 5px;
+    border-style: solid;
+    text-decoration: none;
+    color: #3498DB;
+    font-family: 'open_sansregular';
+    border-color: #3498DB;
+    border-radius: 15px 15px;
+    font-size: 45px;
+    padding: 30px;
+    width: 970px;
+}
+#quinto{
+    font-family: 'open_sansregular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 22px;
+    text-align: center;
+    display: block;
+    margin-top: 55px;
+    margin-left: 55px;
+    width: 960px;
+}
+#botaofinal{
+    background: #3498DB;
+    border-width: 5px;
+    border-style: solid;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'open_sansregular';
+    border-color: #3498DB;
+    border-radius: 15px 15px;
+    margin-left: 37px;
+    margin-top: 54px;
+    font-size: 45px;
+    padding: 25px;
+    width: 980px;
+}
+.lap{
+    color: #999999;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 44px;
+    display: block;
+    width: 980px;
+    margin-left: 47px
+}
+.apps{
+    margin-left: 165px;
+    margin-top: 34px;
+}
+.play{
+    margin-left: 210px;
+    margin-top: 34px;
+}
+#passo{
+    color: #999999;
+    text-align: center;
+    margin-top: 73px;
+    font-size: 45px;
+    margin-left: 240px;
+    font-family: 'open_sansregular';
+    
+    
+}
+.apple{
+    width: 300px;
+}
+.aplicativos{
+    width: 140px;
+}
+
+}
+
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../font/opensans-regular-webfont.woff2') format('woff2'),
+         url('../font/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('../font/webfontkit-20201106-131242/poppins-regular-webfont.woff2') format('woff2'),
+         url('../font/webfontkit-20201106-131242/poppins-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
